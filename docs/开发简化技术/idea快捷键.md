@@ -27,7 +27,7 @@ ctrl+shift+o 自动删除不用包
 
 ctrl+alt+t 自动包裹try-catch，do-while这些
 
-![GIF 2022-11-22 13-20-30](idea快捷键/GIF 2022-11-22 13-20-30.gif)
+![](idea快捷键/GIF 2022-11-22 13-20-30.gif)
 
 ctrl+alt+u 查看UML图
 
