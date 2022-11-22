@@ -21,22 +21,38 @@
 
 
 
-ctrl+shift+o 自动删除不用包
+### ctrl+shift+o 自动删除不用包
 
-![GIF 2022-11-22 13-17-08](idea快捷键/GIF 2022-11-22 13-17-08.gif)
+![GIF 2022-11-22 13-17-08](idea快捷键/GIF1.gif)
 
-ctrl+alt+t 自动包裹try-catch，do-while这些
 
-![](idea快捷键/GIF 2022-11-22 13-20-30.gif)
 
-ctrl+alt+u 查看UML图
 
-![GIF 2022-11-22 13-23-48](idea快捷键/GIF 2022-11-22 13-23-48.gif)
 
-shift+shift 搜索类文件
+### ctrl+alt+t 自动包裹try-catch，do-while这些
 
-![GIF 2022-11-22 13-24-57](idea快捷键/GIF 2022-11-22 13-24-57.gif)
+![](idea快捷键/GIF2.gif)
 
-ctrl加左键点击只会进入接口声明，ctrl+alt+左键点击会进入实现类
 
-![GIF 2022-11-22 13-27-05](idea快捷键/GIF 2022-11-22 13-27-05.gif)
+
+
+
+### ctrl+alt+u 查看UML图
+
+![GIF 2022-11-22 13-23-48](idea快捷键/GIF3.gif)
+
+
+
+
+
+### shift+shift 搜索类文件
+
+![GIF 2022-11-22 13-24-57](idea快捷键/GIF4.gif)
+
+
+
+
+
+### ctrl加左键点击只会进入接口声明，ctrl+alt+左键点击会进入实现类
+
+![GIF 2022-11-22 13-27-05](idea快捷键/GIF5.gif)
